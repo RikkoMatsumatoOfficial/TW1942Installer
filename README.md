@@ -1,2 +1,2 @@
 # TW1942Installer
-TW1942Installer by RikkoMatsumatoOfficial
+This is My Installer for Mod Total War 1942... So Enjoy to use this!!!
